@@ -1,0 +1,932 @@
+{
+  "providerName": "JCFilms",
+  "lastUpdated": "2022-03-21T17:27:10-04:00",
+  "language": "en",
+  "movies": [
+    {
+      "id": "684388352",
+      "title": "HALLOWEEN HEROES Official Screener",
+      "shortDescription": "HALLOWEEN HEROES Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1387221406-68accf463007f6af443b09edfa5866ddd1a0a7706cad8d194584d9aab5224a86-d_800x450.png",
+      "releaseDate": "2022-03-03T15:24:41-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "thriller"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4625,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/684388352\/rendition\/1080p?loc=external&signature=1ab135c7aa50d20227a2307e0a6c123247e2a3235cbd45eff5999749b4541273",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4203537
+          }
+        ]
+      }
+    },
+    {
+      "id": "683097705",
+      "title": "ONE COP'S JOURNEY Official Screener",
+      "shortDescription": "ONE COP'S JOURNEY Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1384895958-c0aa1824db003d41c74611270386ea6cef3734b0267ea21d1ecc621d1c791048-d_800x450.png",
+      "releaseDate": "2022-02-28T20:46:10-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama", "action"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 3809,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/683097705\/rendition\/1080p?loc=external&signature=5d892fb65561affe55671c1b0a8b18f68c2950f50d31e96320dd2c66586377e2",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4210105
+          }
+        ]
+      }
+    },
+    {
+      "id": "663045239",
+      "title": "A MOSES PRAYER FOR EASTER Feature H264",
+      "shortDescription": "A MOSES PRAYER FOR EASTER Feature H264",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1341801231-12a8300f584adb4b8e1b594fc3787539dbb033787a33cb6f84aae423331a80b4-d_800x450.png",
+      "releaseDate": "2022-01-06T12:35:22-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "family"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4329,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/663045239\/rendition\/1080p?loc=external&signature=457dc3a831757877d290da4da3ef12c3ad5e6ab14611cb9eb3965dc4318f3d20",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4977294
+          }
+        ]
+      }
+    },
+    {
+      "id": "645256744",
+      "title": "ANYTHING BUT CHRISTMAS (Official Screener)",
+      "shortDescription": "ANYTHING BUT CHRISTMAS (Official Screener)",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1298007213-f357b4fce99d9ded3a86873959bebe98f2140f0bc5ba7cf70_800x450.png",
+      "releaseDate": "2021-11-12T10:11:33-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "christmas"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5509,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/645256744\/rendition\/1080p?loc=external&signature=03414c432fa6bfc3705145d1f636a4cd0ba2d7485def4e46265684cefd51ce13",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3356345
+          }
+        ]
+      }
+    },
+    {
+      "id": "639735468",
+      "title": "CHOSEN Official Screener",
+      "shortDescription": "CHOSEN Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1286554890-6b360d110394475fd5db7a0d27eac0a160dbb280464010c85_800x450.png",
+      "releaseDate": "2021-10-27T18:05:20-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4972,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/639735468\/rendition\/1080p?loc=external&signature=d02528af4243470f6d39a2df2577070faa772ef8ea3d9c2702a8169f1040fe36",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4857496
+          }
+        ]
+      }
+    },
+    {
+      "id": "594894868",
+      "title": "FORGIVEN Official Screener",
+      "shortDescription": "FORGIVEN Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1228581313-b7712ee85d61c4d3367016a5d6e0b0e43e9041da4062d6fbd040844328f52fa2-d_800x450.png",
+      "releaseDate": "2021-08-30T17:46:12-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4382,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/594894868\/rendition\/1080p?loc=external&signature=5ac3b1f659dbcad8c9db704f359f01966e13d20b7f7bd8f31e59da0fe476b56d",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 5016598
+          }
+        ]
+      }
+    },
+    {
+      "id": "585453544",
+      "title": "NUN NANCY Official Screener",
+      "shortDescription": "NUN NANCY Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1211526212-6bec0424a6fdf285a67e79bed1a8ab8d1bf83e8156412b87b002d00985d6780d-d_800x450.png",
+      "releaseDate": "2021-08-10T13:48:15-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 3849,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/585453544\/rendition\/1080p?loc=external&signature=42538db465176199f22958f45619f564200f8551881ebcbd24a97cce7e2f8842",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 5447413
+          }
+        ]
+      }
+    },
+    {
+      "id": "571382281",
+      "title": "A PATRIOT'S DAY Official Screener",
+      "shortDescription": "A PATRIOT'S DAY Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1181755424-511b046dfbf2fa7884537dcbf7bb1424f94f7d0cfed8154887c62368c823b9e6-d_800x450.png",
+      "releaseDate": "2021-07-05T16:33:11-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "action"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4466,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/571382281\/rendition\/1080p?loc=external&signature=18ecf7d719def1a848afd4302cc0d2c3765c38e27b0917735a7c5e3906668b2f",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 5081333
+          }
+        ]
+      }
+    },
+    {
+      "id": "543842055",
+      "title": "THE STORY OF MOTHER'S DAY (Official Screener)",
+      "shortDescription": "THE STORY OF MOTHER\u2019S DAY is a new Dean Cain faith film that celebrates the history of Mother\u2019s Day.  From Kentucky to West Virginia, this special day has been woven into American tradition as the third most celebrated holiday.   But just how did it start? \n\nWhen students of Audubon High School return after the COVID pandemic, they have just a few weeks to produce their end of the year performance.  Struggling to find the right script, music, & choreography, the students find inspiration when they discover the origin and the true meaning behind Mother\u2019s Day. \n\n101  Minutes",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1125715930-e79c74592eca4e68052a9436557a772e962268502dc331ae8524a2e366abd7f7-d_800x450.png",
+      "releaseDate": "2021-04-30T19:18:50-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "family"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5123,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/543842055\/rendition\/1080p?loc=external&signature=23e5f0f362f4c84eb58519ff457a826c547a006fff014c0037ff4e171559d313",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4393302
+          }
+        ]
+      }
+    },
+    {
+      "id": "542764954",
+      "title": "STRANGE FRIENDS (2021) Official Screener",
+      "shortDescription": "Mobster Ross Blakely is about to get into a difficult spot when his devout sister Samantha comes to him with an unusual request: rescue her daughter Jennifer from the life of drugs and the influence of her drug-dealing boyfriend.\n\nShocked that his once religious niece had gone so astray, he agrees to his sister\u2019s request.\n\nBut when rescuing Jennifer doesn\u2019t go as smoothly as planned, Ross finds himself amongst the company of some strange friends, who hope to help him rescue his niece and possibly save him along the way.\n\nOfficial website: www.StrangeFriendsFilm.com\n\nBased on the book, \"Strange Friends\" by Gary Lee Vincent, available here: https:\/\/amzn.to\/2QvnjpK",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1123920568-6bc6866bc22623a3c3393d5271188208169e810ed3df57983b4d97dea85f44a5-d_800x450.png",
+      "releaseDate": "2021-04-28T13:14:50-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "thriller"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5876,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/542764954\/rendition\/1080p?loc=external&signature=5c95bcebb0d23a7224fa9089e78f1a3ce0fa5c68ea489b1e958c384449d315d1",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4690088
+          }
+        ]
+      }
+    },
+    {
+      "id": "527884547",
+      "title": "THE MAN WHO WENT TO HEAVEN Official Screener",
+      "shortDescription": "THE MAN WHO WENT TO HEAVEN is not your typical after-life film, it intertwines Biblical truths with a heartfelt faith story that will both entertain and ultimately shine more light on a topic so rarely discussed in churches today.\n\n\u201cHollywood has barraged the movie screens about Heaven, the problem is that many of these films are saturated with fabrications that leave the audience confused and disillusioned. \nIt\u2019s that disillusion that unfortunately distorts the Gospel.\u201d- Jason Campbell, JCFILMS\n\n\u201cA clear, descriptive, creative and Biblical depiction of Heaven is so greatly needed in our culture today.\u201d- Pastor Levi Cushman",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1093084713-f3305ccd247d04fec4bb089cbd75f8f37c1c98143f369d57b189026724a957d6-d_800x450.png",
+      "releaseDate": "2021-03-23T12:13:44-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2021-12-07T19:11:37-05:00",
+        "duration": 3863,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/527884547\/rendition\/1080p?loc=external&signature=9076b1b216b0a1cd329c1e1d738ede8d25ceea9cbc0d0f89d1bfa8db40266dc9",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3795046
+          }
+        ]
+      }
+    },
+    {
+      "id": "516264880",
+      "title": "THE NOTEBOOKS Official Screener",
+      "shortDescription": "THE NOTEBOOKS is an inspiring film about friendship, love and hope.  When Preston Walker suddenly finds himself forgetting his memories, he puts a game plan in place to help him remember all of his life\u2019s greatest events.\n\n\u201cThis amazing film does not shy away from the turmoil the disease brings.\u201d\n\n\u201cCreatively highlights the wonderful compassion and love generated by caregivers.\u201d \n\n\u201cToday, 5 million people in America suffer with Alzheimer\u2019s Disease.  In the next decade, that number will triple.  Thank you JCFilms for tackling this issue.\u201d\n\n\u201cInspiring!  Compassionate!  Moving!\u201d",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1069017708-d8b56d0aebd3dd3c2d6f149886cfacbc8c0fc4ff9eda34ec0d79b09ef977c4c8-d_800x450.png",
+      "releaseDate": "2021-02-24T10:17:23-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4262,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/516264880\/rendition\/1080p?loc=external&signature=cc3c475175c3438121a5a95af18a4bd87e6063bffdb4f8d90c8e9bb154020935",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4198277
+          }
+        ]
+      }
+    },
+    {
+      "id": "501833228",
+      "title": "LIGHT UP NIGHT Official Screener",
+      "shortDescription": "Light Up Night in Bridgeport, WV is a celebrated tradition that attracts thousands from its community.  It\u2019s truly a magical event!  And now, this fairy-tale experience is the setting of a new Dean Cain Christmas movie.\n\nAfter her husband dies, Ruth travels with her mother-in-law, Naomi, back to the family farm in Bridgeport, West Virginia.  While Ruth tries to save the farm and battle against a new Recreation Center being built nearby, her unique \u2018charm\u2019 \ncatches the eye of Bridgeport Mayor, Boaz Perez or just \u2018Bo.\u2019",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1038437537-3d29af70e5334781976d6d95df4731f826b4c800940ba27f30c03ae0df103ad6-d_800x450.png",
+      "releaseDate": "2021-01-18T11:54:10-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "christmas"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4796,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/501833228\/rendition\/1080p?loc=external&signature=4ae9debce6fd666f6315609b27ae766d97362f539df7863aac4827b937dbbf0b",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4495050
+          }
+        ]
+      }
+    },
+    {
+      "id": "500267604",
+      "title": "THE BRIDGE Official Screener",
+      "shortDescription": "Dean Cain, Tim Ross and Michael Sigler star in this new faith-based thriller about an unnerving compulsion that attracts people from all over to commit suicide off West Virginia\u2019s most iconic bridge. \n\nTHE BRIDGE attempts to answer some of the questions why young people commit suicide.  It also examines the demonic presence involved with suicide.  The film is an emotional and religious experience that deals with human loss and grief.  From a group of teens obsessed with witchcraft to adults with psychological meltdowns, the film covers a multitude of aspects concerning suicide.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1035100970-be2fdadf8d91df875d6ad427842c7407ddfb115b369ef14ca215822268a98bea-d_800x450.png",
+      "releaseDate": "2021-01-13T20:22:10-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "thriller"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 3868,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/500267604\/rendition\/1080p?loc=external&signature=152d57e5630b57e471faba31f9bcb978d5d60fdb11d0aaf1ed595643c86eb703",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4559781
+          }
+        ]
+      }
+    },
+    {
+      "id": "495271437",
+      "title": "GODSEND (Official Screener)",
+      "shortDescription": "\u201cMichael Ochotorena delivers the performance of his career!\u201d\n\nWhen a man (Michael Ochotorena, \"John Light,\" \"Dispatched\") wakes up under a bridge to discover he no longer knows who he is or how he got there, his life brutally unfolds as a homeless person.  \n\nEnduring the scorn of random people, the elements, and coping with a terrible head injury, he finds hope in the unlikeliest of friends: a dog and a pastor (Greg Mason, \"Coronavirus: Perfect Storm,\" \"Dispatched\"). \n\nTogether, they explore kindness, compassion, and what it means to live\u2014and to become a Godsend to others.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1024634925-dcad7c5d51d4d66b81290010710dce639dd540cd56ff993f5c2e036762f978c3-d_800x450.png",
+      "releaseDate": "2020-12-28T13:36:57-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "thriller"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5413,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/495271437\/rendition\/2160p?loc=external&signature=c18e71c627401c8a425dc4bae4fbfd8f07e7778288cfa5c6a2c9ed010924bc75",
+            "quality": "UHD",
+            "videoType": "MP4",
+            "bitrate": 16541936
+          }
+        ]
+      }
+    },
+    {
+      "id": "494297734",
+      "title": "DON'T GIVE UP Official Screener",
+      "shortDescription": "When pastor, writer and actress Amy Samuel \nwas suffering from debilitating depression, it was difficult to find reasons to keep going until God healed her, and helped her reshape her life into something amazing and abundant.\n\nIn DON\u2019T GIVE UP she tells the true story of her meeting with Jesus and how it opened her eyes to the gifts around her.\n\n\u201cONE in FIVE American women suffer from depression.  That\u2019s 12 MILLION!\u201d\n\n\u201cDon\u2019t Give Up reverses the rumor that depression is just a normal part of being a woman!\u201d\n\n\u201cEvery women\u2019s ministry needs a copy of this film in their church library.\u201d\n\n\u201cDean Cain and Amy Samuel are dynamic in this much needed film.\u201d\n\n\u201cThe most transparent faith film ever!\"",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/1022150134-0c86c2dd6562e2b84eb747f2634bcd36f5e7a6a6e7797074692f885ead9779d7-d_800x450.png",
+      "releaseDate": "2020-12-23T21:19:46-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2020-12-23T23:30:47-05:00",
+        "duration": 3379,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/494297734\/rendition\/1080p?loc=external&signature=719cc73c4f36d7b4abfa5748074087a4dee07995cc8d103f371ba7e9f5663df7",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4185848
+          }
+        ]
+      }
+    },
+    {
+      "id": "464627551",
+      "title": "ONE LIFE AT A TIME Official Screener",
+      "shortDescription": "Carson Campbell is (played by Luke Schroder) a self-absorbed teen that finds himself in trouble when he plays a video prank on a homeless man.  His entitlement lifestyle becomes an illusion when he\u2019s sentenced to perform community service at a local homeless shelter.  Dean Cain plays his egocentric father who challenges his son\u2019s transformation.  Eventually, both lives are changed ONE LIFE AT A TIME.  \n\nIn celebration of 120 years of ministry, ONE LIFE AT A TIME not only takes a historical look at the mission, but examines today's problems with homelessness.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/971863151-6f452180094d7645eaab084b8fc088d33927280c73e1ea24bf291c1a578294a8-d_800x450.png",
+      "releaseDate": "2020-10-03T21:55:17-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "ministry"
+      ],
+      "content": {
+        "dateAdded": "2021-12-07T19:11:37-05:00",
+        "duration": 4412,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/464627551\/rendition\/1080p?loc=external&signature=103c809d014d97cc227c9dfeb7f432905ae95a93124f83b28094312f2a26d006",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4019344
+          }
+        ]
+      }
+    },
+    {
+      "id": "439863566",
+      "title": "PERFECT STORM Official Screener",
+      "shortDescription": "PERFECT STORM Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/927077449-bdf02b7c94aeb097a85ad30ab0635bdacc2d993564bb03c285229d0f92b19d4b-d_800x450.png",
+      "releaseDate": "2020-07-19T23:32:20-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "series"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 2717,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/439863566\/rendition\/1080p?loc=external&signature=042c33d33536977bacbe841abbac23762f2d840017a131df277c98fb3a9f34fb",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4672355
+          }
+        ]
+      }
+    },
+    {
+      "id": "438930697",
+      "title": "DESK CLERK Official Screener",
+      "shortDescription": "DESK CLERK Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/925378194-8e0c345c57b4235a2ae6f4fc858cbc066a8c37ddd3b05474021ebd4a8b6150a7-d_800x450.png",
+      "releaseDate": "2020-07-16T10:42:17-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "comedy"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5405,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/438930697\/rendition\/1080p?loc=external&signature=fdc16125dae3d3906401a9b9aebea8b311c4c5a2169c3a41aadcce2a7c86df4f",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3760705
+          }
+        ]
+      }
+    },
+    {
+      "id": "431989227",
+      "title": "THE PRODIGAL COWBOY Official Screener",
+      "shortDescription": "Two brothers; Nick, an athletic high school football star and Mark a rising name on the rodeo circuit have always been rivals. But, after a family tragedy the competition heats up for their father\u2019s attention.\n\nDisney\u2019s, SECRETARIAT actor, Otto Thorwarth teams up with WORLD CHAMPIONSHIP BULL RIDER, Scott Mendes to deliver this Western style modern-day story of the prodigal son.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/913763634-4bdb19d7d402ab59b4b11e9f2dee89e3d791be50b1c8de15bc2e93299ed2f2b7-d_800x450.png",
+      "releaseDate": "2020-06-23T20:19:59-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "ministry"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 6085,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/431989227\/rendition\/1080p?loc=external&signature=78835c3f7b3f181133a4acc6032e0cb90addd1e161537544635349eef63544d5",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4685879
+          }
+        ]
+      }
+    },
+    {
+      "id": "421328938",
+      "title": "PATIENT ZERO Official Screener",
+      "shortDescription": "PATIENT ZERO Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/896976264-997908a1fcc58394dafd2b35f6bcf28963c2a2f2b5a84c09ee20a6e21d699e99-d_800x450.png",
+      "releaseDate": "2020-05-21T20:25:12-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "series"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 3217,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/421328938\/rendition\/1080p?loc=external&signature=9ba3dda9a1908b3217f22090b697a0be099faee41307fc0805f5c5bb60c68412",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4509268
+          }
+        ]
+      }
+    },
+    {
+      "id": "409731515",
+      "title": "BEING TRUMP - Official Screener",
+      "shortDescription": "BEING TRUMP - Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/881195318-47eb025af13fbdd46c9a8ec0f7cebb2bcc4e90eda991c4b597549e1f77d8f77c-d_800x450.png",
+      "releaseDate": "2020-04-20T06:25:59-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "comedy"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5377,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/409731515\/rendition\/1080p?loc=external&signature=fae875e6af9846328a856fb7bb7c7e3836e48537d5c107a8a126e1a1f7d5a4e7",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3843938
+          }
+        ]
+      }
+    },
+    {
+      "id": "390064113",
+      "title": "DISPATCHED Official Screener",
+      "shortDescription": "DISPATCHED Official Screener",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/854098639-13358a5bf3c8ae9853b24478a0d89cc264bb59259cfd1bc066227658d9842fc7-d_800x450.png",
+      "releaseDate": "2020-02-07T15:48:44-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "action"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 4555,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/390064113\/rendition\/720p?loc=external&signature=9c0aff2396081a68c4109c58fba48174f650db2c5140e138014968512de1f8e0",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2535469
+          }
+        ]
+      }
+    },
+    {
+      "id": "370415673",
+      "title": "JACK JONAH Screener",
+      "shortDescription": "Jack Jonah was an extraordinary teen with real dreams of a bright future. On April 6, 2016, he became a heroin overdose statistic. Now his story is inspiring and educating many on this national epidemic.\n\nJACK JONAH is a true story about a family\u2019s endurance and struggles after an unspeakable tragedy. \n\nActor Dean Cain leads the cast in this multi-plot drama uncovering the deadly drug culture in Western Massachusetts. \n\nFor more information, visit www.JacksFilm.com or www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/828027707-5cb30bbaad0dfbc17cb1f8f95fb3a7f42f68ef533aeea5d5f35be3a044dc92cf-d_800x450.png",
+      "releaseDate": "2019-11-01T18:30:28-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "ministry"
+      ],
+      "content": {
+        "dateAdded": "2021-03-31T00:33:04-04:00",
+        "duration": 4975,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/370415673\/rendition\/1080p?loc=external&signature=4cb0a15cc1b9e00d48576143c68d65ed53c0276e4947089f741da03e9965e3bb",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 4957431
+          }
+        ]
+      }
+    },
+    {
+      "id": "367782887",
+      "title": "The Zombie Club Official Screener",
+      "shortDescription": "After a mix-up in a shipment of lab frogs goes terribly wrong.  6 Teens find themselves in a race against the clock to find a cure.  A race that will alter their lives forever\u2026. and the lives of thousands.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/824307203-06d211eeb9bf2df964c618533399589ab7ebfe81b2caa2b2af2e31bd9499af76-d_800x450.png",
+      "releaseDate": "2019-10-21T10:54:48-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "family"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5472,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/367782887\/rendition\/1080p?loc=external&signature=b2f4ac49b5b1473fc8dce29b0894770cebdb9ca60c12db8e041f324d35631c0b",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3093585
+          }
+        ]
+      }
+    },
+    {
+      "id": "356083543",
+      "title": "A CHILD OF THE KING Screener",
+      "shortDescription": "In the bordering villages of the Amazon Rainforest, children, toddlers, and teenagers from the jungle search trash cans for food, steal knives to protect themselves at night and live in fear of being forced into the dark world of sex trafficking.  \n\nFor these desperately needy children, nothing was safe, nothing was free until they encountered the love of Jesus through the compassion of Dr. Wes King.  Kings\u2019 step of faith is a stunning example of how God miraculously uses the willing to transform the lives of thousands of forgotten children with His hope and healing. It is a story of immense faith, suffering, and love. The children whose stories are revealed in this film will change your heart forever.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/809084215-75a183f7578b5d56fc71e905714636f50bf93520455cd00b3dd9aa94bdf5001e-d_800x450.png",
+      "releaseDate": "2019-08-26T20:15:14-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "ministry"
+      ],
+      "content": {
+        "dateAdded": "2019-08-26T21:41:30-04:00",
+        "duration": 5371,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/356083543\/rendition\/540p?loc=external&signature=6ebf7b3b3013239905ad8c07eae145dab54362a778e65138e34d6ffa027b77b8",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1566544
+          }
+        ]
+      }
+    },
+    {
+      "id": "350828085",
+      "title": "JOHN LIGHT Official Screener",
+      "shortDescription": "JOHN LIGHT Screener \/ Not for Distribution",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/802244441-48be52daf8e43d8fc1723dad442797c566fef18c6e64952736ac135ff42d6712-d_800x450.png",
+      "releaseDate": "2019-07-29T16:36:50-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "ministry"
+      ],
+      "content": {
+        "dateAdded": "2022-03-19T17:17:19-04:00",
+        "duration": 5854,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/350828085\/rendition\/1080p?loc=external&signature=db5cf8e623b25f01d6f3f6f5fea1bc8ebb5106873a1af23d7b545266a06c3543",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3818248
+          }
+        ]
+      }
+    },
+    {
+      "id": "344121167",
+      "title": "THE CABIN Official Screener",
+      "shortDescription": "The Cabin is a modern day film about spiritual warfare telling the story of how one man courageously waged war against his personal demons.  This suspenseful thriller shows the spiritual battlefield we all face each and everyday in an unusual and realistic way.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/793568555-90132d22480d96545cf21a2d1829cf5569ea175a3adeec26a7abf9c491e89c7f-d_800x450.png",
+      "releaseDate": "2019-06-24T11:48:01-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "thriller"
+      ],
+      "content": {
+        "dateAdded": "2019-06-24T15:26:44-04:00",
+        "duration": 5657,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/344121167\/rendition\/1080p?loc=external&signature=00b74bd38faf2c648d883e4671f45cbced51da36c8614b2dd6fc153a59d346cc",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3563353
+          }
+        ]
+      }
+    },
+    {
+      "id": "333438957",
+      "title": "THE PERFECT DAY Official Screener",
+      "shortDescription": "A film by 9\/11 survivors and U.S. Navy Seals.\n\nRetired Navy S.E.A.L. Christopher 'Soup' Campbell is a tactical specialist for a private security firm at a counter terrorism training facility hidden in the Blue Ridge Mountains. The military and intelligence community call him 'Soup', not only because of the familiarity of his last name, but his ability to combine and assess a variety of threats into a strategic tactical response. A specific skill t hat came useful on many of his combat tours into Iraq and Afghanistan.\n\nAs more and more acts of terror are approaching America, 'Soup' and his team of retired military and security contractors begin to hear about a frightening new strategy from the enemy. Rumors of terrorist threats in America  have always run about, but this time it's different...the chatter is coming from everywhere. Can a group of retired military warriors unravel this vicious plan?\n\nTeamed with a small group of just average day Americans and veterans, 'Soup' leads a tactical reconnaissance campaign in America. Their mission: Who is this threat? How is it getting over the border? And, what exactly are they trying to accomplish?\n\nTHE PERFECT DAY is an action-packed thriller of suspense as the plotting of an immense terrorist attack in America is unraveled. From the larger trigger attack that signals the multiple simultaneous deadly attacks that pepper America's landscape on one perfect day. It depicts the brutal reality of how governmental bureaucracy is enabling its own national security vulnerability.\n\nIt's a prevailing patriotic film with a simple message: The unashamed and vigilant American is the true hero!\n\nFor more information, visit www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/855293146-bdf201d7fffdb3b53067311953dcf98a490797e732f6a62bfc1578f431de306f-d_800x450.png",
+      "releaseDate": "2019-04-30T17:39:47-04:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "action"
+      ],
+      "content": {
+        "dateAdded": "2019-04-30T18:01:42-04:00",
+        "duration": 5686,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/333438957\/rendition\/1080p?loc=external&signature=11cc5a32a72c96263aa2cc26b49f6c69217544b3c2bb811140835bd269cf23e7",
+            "quality": "FHD",
+            "videoType": "MP4",
+            "bitrate": 3012748
+          }
+        ]
+      }
+    },
+    {
+      "id": "319099116",
+      "title": "A PROMISE TO ASTRID Official Screener",
+      "shortDescription": "A  'Promise to Astrid' is a heartwarming new faith inspired film based on a true story about a remarkable woman that used random acts of kindness to change the lives of an entire community. \n\n A car accident leaves a family in a predicament, triggering a series of encounters with a range of personalities.  When their elderly neighbor Astrid (JoAnn F. Peterson) comes into the picture, it\u2019s the least of Mike (Jeremy Gladen) and Cindy\u2019s (Luba Hansen) expectations that she will change everything.  Her clever and mysterious ways confound everyone around her, including her Pastor (Dean Cain).\n\nAstrid seems to have all the answers and promptly sets her plan into action.  With wisdom, intuition, and maybe a little bit of help from above, she makes everything turn out just right. There are still good stories to tell, and this is certainly one of those \u201cfeel-good\u201d movies you\u2019ll remember.\n Emotional, humorous, and a little bit mysterious, some things you just can\u2019t explain.  There are bigger things at work, than what we understand.  Accept them with trust, and be grateful.  And have faith that good things will happen.\n\nBased on the award winning book by Michael Tourville, titled the same, 'A Promise to Astrid' stars Dean Cain and is scheduled for release in 2019.\u200b",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/761591450-4557caa7a984a211ca8439ad304e8e097b0d9be1083958be444a93047e389964-d_800x450.png",
+      "releaseDate": "2019-02-22T16:48:41-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2019-04-19T10:59:34-04:00",
+        "duration": 5338,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/319099116\/rendition\/720p?loc=external&signature=8ace89c544eceeef5af106901c6747afa0e261a2de73789c37cf1aff7d7cdbf8",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2386881
+          }
+        ]
+      }
+    },
+    {
+      "id": "319042726",
+      "title": "THE FOLLOWER Official Screener",
+      "shortDescription": "Dealing with some adversity in his life has left Elisha (Michael Sigler) in search of purpose and meaning. After a life-long pursuit seemingly becomes an impossibility, he unexpectedly finds hope and redemption on a haphazard road trip with a stranger (Timothy Goodwin). Through the duos misadventures and their continual run-ins with a no-nonsense Sheriff (Dean Cain), Elisha realizes what it means to be a follower of Christ and that \u201cGod doesn\u2019t call the qualified but He qualifies the called.\u201d",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/761577378-ebd5ec1be260bd54b0e95a084ba6248967183d79e382aed77ec76cf203e06317-d_800x450.png",
+      "releaseDate": "2019-02-22T11:55:55-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "comedy"
+      ],
+      "content": {
+        "dateAdded": "2019-04-19T10:59:41-04:00",
+        "duration": 5124,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/319042726\/rendition\/720p?loc=external&signature=2d0ec1295793ca582f22e78c679dc478a0ef931516798898b5133d22ae75b2de",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 2451786
+          }
+        ]
+      }
+    },
+    {
+      "id": "302591435",
+      "title": "VIRTUOUS Official Screener",
+      "shortDescription": "\u201cFIVE DOVES \u2013 Powerfully shows that perseverance and faith pays off.\u201d \u2013 The Dove Foundation\n\n\u201cVIRTUOUS is a great film about dealing with adversity and overcoming it.\u201d - Governor Mike Huckabee\n\nWhen a young woman, Simone Burner (singer\/songwriter, Brandy Allison), is accused of murdering the man who assaulted her, she seeks out the help of attorney Jack Evans (Erik Estrada, TV\u2019s CHIPS) to prove her innocence. A ruthless and corrupt prosecutor engages her in a trial that brings the past she\u2019s longed to escape to the forefront of her defense. VIRTUOUS will inspire and ignite you to live the principles of Proverbs 31 \u2013 faith, integrity, wisdom, and honor.\n\nFor more information, visit www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/741413817-9faf97481b3d6aff72ef01f17fed39589332dfb832f82e435e3120189a639952-d_800x450.png",
+      "releaseDate": "2018-11-24T12:10:36-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2018-11-24T19:58:57-05:00",
+        "duration": 7474,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/302591435\/rendition\/540p?loc=external&signature=5fe147cdfbc71c30bcbf54b1f30ecbf5c67fe93689cf4c116a0cda35c74b09c6",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 801539
+          }
+        ]
+      }
+    },
+    {
+      "id": "302571863",
+      "title": "ONE CHURCH Official Screener",
+      "shortDescription": "\u201cIf we ever forget that we\u2019re one nation under God, then we will be one nation gone under.\u201d \u2013 Ronald Reagan\n\nIn the political thriller ONE CHURCH, a national tragedy turns into a personal vendetta for aspiring politician Cornelius Barlow. As religious freedom comes to the forefront of public debate, the divisive argument \u2013 like so many others that disguise more sinister agendas \u2013 hides behind the veiled language of coexistence, inclusion, and unity.\n\nAt the center of a spiritual revolution, families are divided, churches are closed, and lives are even lost as an impending new law demands all American pulpits promote a single, unified religion.\n\nWhen all seems lost, God uses the most unlikely people to defend His church during a battle to reclaim the most important message ever told.\n\nWould our elected lawmakers ever abolish the freedom of worship, enforce a single unified religion, and vote to establish totalitarian government control?\n\nStarring Jessica Lynch, the first American POW to be rescued since the Vietnam War.\n\nFor more information, vist www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/741414129-dc032cefab594e17a5eadaab77fdf5d4ebf6ff137d99840dc6eeb2e28aa6a20f-d_800x450.png",
+      "releaseDate": "2018-11-24T08:28:57-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2018-11-24T12:08:53-05:00",
+        "duration": 6370,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/302571863\/rendition\/540p?loc=external&signature=3e8e40c3ca91810120866cab9441ceaf3e4be731e6fa6cb05e654699a84a061a",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 882554
+          }
+        ]
+      }
+    },
+    {
+      "id": "301506589",
+      "title": "MEGAN'S CHRISTMAS MIRACLE Official Screener",
+      "shortDescription": "Experience the magic and miracles all around you during this holiday season and all year through.\n\nDean Cain stars in this enchanting Christmas story about a teenage girl that finds hope in a magical nativity display at her church. MEGAN'S CHRISTMAS MIRACLE is a journey into the many unexpected life interruptions Megan experiences. The film starts with a hurt little girl and ends with a confident and assured beautiful lady.\n\nThe uplifting, mystical, faith-inspired film stars Brooklyn Nelson (Young Elsa in Disney's New York Broadway Musical FROZEN), Timothy Goodwin (ADAM RUINS EVERYTHING, MOM), and Dean Cain (LOIS & CLARK: THE NEW ADVENTURES OF SUPERMAN, SUPERGIRL).\n\nAt the heart of MEGAN'S CHRISTMAS MIRACLE is a young girl's exploration of love, loss, hope, and the true meaning of Christmas. It also shows us how love and hope carry us through to our adult years as we hold onto our faith through life's ups and downs, and trust that miracles really can happen.\n\nFor more information, visit www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/740096131-5031f2ac0df2650b1627671010644deb9b7ff41fe6916fa02fef9acc0116397f-d_800x450.png",
+      "releaseDate": "2018-11-18T17:31:42-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "christmas"
+      ],
+      "content": {
+        "dateAdded": "2018-11-18T18:24:17-05:00",
+        "duration": 5249,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/301506589\/rendition\/540p?loc=external&signature=cb66df7bf0a30b57ab12961538c1625e28bc530091efe4aed34fafb2764d2a8b",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1107944
+          }
+        ]
+      }
+    },
+    {
+      "id": "301459972",
+      "title": "UNCOMMON Official Screener",
+      "shortDescription": "\"Students are clearly protected by the Constitution...They may exercise their religions free speech rights.\" - Mat Straver, Liberty Council Founder\n\n\"Five Doves\" - The Dove Foundation\n\n\"Every teenager should go see the faith-based film UNCOMMON.\" - Charisma News\n\nWhen the students of Rosewood High lose their drama department due to budget buts, they decide to create their own! Equipped with unique talents, they bond together to prepare the perfect production with a modern take on the Bible's parables. Fighting overwhelming challenges, the teens defend their privilege to worship, meet, and perform.\n\nArmed with expert legal counsel and unexpected help from Christian music's finest, these teens realize what it means to be...UNCOMMON!\n\nFor more information, visit www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/740043527-338303eacb695b24a29fc95daa53056dc5136dc702daea4a5e33aa8aea5c4a01-d_800x450.png",
+      "releaseDate": "2018-11-18T09:34:25-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2018-11-18T09:55:23-05:00",
+        "duration": 6228,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/301459972\/rendition\/540p?loc=external&signature=be95e7a3d784dacceef25ab3dc57c8ba059f918aebe7e297cceceee979a2dea5",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 862084
+          }
+        ]
+      }
+    },
+    {
+      "id": "301425143",
+      "title": "FINDING FAITH Official Screener",
+      "shortDescription": "This will either tear them apart or bring new meaning to their faith!\n\nThe Garrett's are a model family for their church and community. but when an online predator abducts 14-year-old Faith Garrett, their faith is pushed to the breaking point.\n\nErik Estrada (THE CROSS AND THE SWITCHBLADE, CHIPS) stars in this powerful story, inspired by actual events. The desperate search for Faith brings her family, church, and community to their knees, threatening to either tear them apart or strengthen their faith as never before.\n\nFrom Sheriff Mike Brown (INTERNET CRIMES AGAINST CHILDREN TASK FORCE) comes a compelling faith-based film about Internet safety every family needs to watch together.\n\nFor more information, visit www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/740017376-fbe64cbf3d5b1c574ac5b6b291f5dd811ece1c304c61ad2bd0665f10022f2690-d_800x450.png",
+      "releaseDate": "2018-11-17T23:57:04-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "action"
+      ],
+      "content": {
+        "dateAdded": "2018-11-18T00:07:17-05:00",
+        "duration": 7005,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/301425143\/rendition\/540p?loc=external&signature=2f85cc88608315cc932c36dfb0c89f768b13e0dee58c37872444260618b4c7e0",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 1102916
+          }
+        ]
+      }
+    },
+    {
+      "id": "301394598",
+      "title": "NAIL 32 Official Screener",
+      "shortDescription": "\"If you don't win, don't come home.\" - Jasper Weaver\n\nAs a young man, Jasper 'Buck' Livingston made a decision that influenced and forever changed American cowboy culture. Even through disappointment, hardship, and failure, Buck's incredible journey as a north Texas rodeo cowboy, rancher, father, and preacher proved that every life matters, and even ordinary men can live a life filled with extraordinary purpose.\n\nNAIL 32 is an exciting and emotional true-life story that champions the importance of being courageous, honorable, and truly God-fearing.\n\nCan a cowboy be a Christian? Can a Christian be a cowboy?\n\nWhile exploring the answers to some of life's toughest questions, NAIL 32 encourages all men to stand up and walk with God. And never, ever sell your soul or your saddle, because...life's a long, long, ride.\n\nFor more information, visit www.JCFilms.org.",
+      "thumbnail": "https:\/\/i.vimeocdn.com\/video\/739940885-e4bb0d5de8e0e86c77d6bded55dfc28b96dbe978d8ce2ca561cc219992cb0a9e-d_800x450.png",
+      "releaseDate": "2018-11-17T15:12:15-05:00",
+      "genres": [
+        "faith"
+      ],
+      "tags": [
+        "faith", "drama"
+      ],
+      "content": {
+        "dateAdded": "2018-11-17T20:39:42-05:00",
+        "duration": 5598,
+        "videos": [
+          {
+            "url": "https:\/\/player.vimeo.com\/progressive_redirect\/playback\/301394598\/rendition\/540p?loc=external&signature=664cb68bfe171f94ac4acf56f20e03d2710d262588061a468fd2826cc6512fbd",
+            "quality": "HD",
+            "videoType": "MP4",
+            "bitrate": 958858
+          }
+        ]
+      }
+    }
+  ]
+}
