@@ -55,11 +55,15 @@
             "bitrate": 4210105
           }
         ]
+      },
+      "rating": {
+	"rating": "TVY14",
+        "ratingSource": "USA_PR"
       }
     },
     {
       "id": "663045239",
-      "title": "A MOSES PRAYER FOR EASTER",
+      "title": "A MOSE'S PRAYER FOR EASTER",
       "shortDescription": "A MOSES PRAYER FOR EASTER Feature H264",
       "thumbnail": "https://images-vod.wixmp.com/bdd6695e-2531-4974-afa0-56b6f84a6d82/images/68567992684e443da88d7e25add88b9d~mv2/v1/fill/w_800,h_450/file.png",
       "releaseDate": "2022-01-06T12:35:22-05:00",
